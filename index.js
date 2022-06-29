@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @Adnan
+› Base Ori @Adnan
 › Kalau mau ubah/edit owner di settings.js
 › Edit text menu di file language › help.js
 */
